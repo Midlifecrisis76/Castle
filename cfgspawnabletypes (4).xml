@@ -2638,6 +2638,9 @@
 		<attachments chance="1.00">
 			<item name="HatchbackTrunk" chance="0.20" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="OffroadHatchback_Blue">
 		<attachments chance="1.00">
@@ -2682,6 +2685,9 @@
 		<attachments chance="1.00">
 			<item name="HatchbackTrunk_Blue" chance="0.20" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="OffroadHatchback_White">
 		<attachments chance="1.00">
@@ -2725,6 +2731,9 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HatchbackTrunk_White" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 	</type>
 	<!-- -->
@@ -2774,6 +2783,9 @@
 		<attachments chance="1.00">
 			<item name="CivSedanTrunk" chance="0.20" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
@@ -2821,7 +2833,10 @@
 		<attachments chance="1.00">
 			<item name="CivSedanTrunk_Wine" chance="0.20" />
 		</attachments>
-	</type>
+	        <attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+	        </type>
 	<type name="CivilianSedan_Black">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="0.80" />
@@ -3101,7 +3116,7 @@
 			<item name="TerritoryFlagKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Flag_Altis" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Flag_APA" chance="1.00" />
