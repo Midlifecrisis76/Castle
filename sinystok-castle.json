@@ -153,7 +153,7 @@
             "ypr": [
                 125.5179672241211,
                 0.0,
-                -9.499999046325684
+                -0.0
             ]
         },
         {
@@ -273,24 +273,10 @@
                 34.35688018798828,
                 -0.0,
                 -0.0
-      
             ]
         },
         {
-            "name": "Land_Medical_Tent_Big",
-            "pos": [
-                1147.8599853515626,
-                379.5010070800781,
-                12314.400390625
-            ],
-            "ypr": [
-                117.80098724365235,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "name": "Land_Wreck_Ikarus",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1153.1083984375,
                 380.5575866699219,
@@ -303,7 +289,7 @@
             ]
         },
         {
-            "name": "Land_Wreck_Lada_Green",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1120.31005859375,
                 379.3689880371094,
@@ -316,7 +302,7 @@
             ]
         },
         {
-            "name": "Land_Wreck_Lada_Red",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1114.5999755859376,
                 378.875,
@@ -329,7 +315,7 @@
             ]
         },
         {
-            "name": "Land_Wreck_Volha_Grey",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1109.18994140625,
                 378.2250061035156,
@@ -342,7 +328,7 @@
             ]
         },
         {
-            "name": "Land_Wreck_hb02_aban2_black",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1103.530029296875,
                 377.6449890136719,
@@ -355,7 +341,7 @@
             ]
         },
         {
-            "name": "Land_Wreck_Uaz",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1270.3817138671876,
                 387.43280029296877,
@@ -368,7 +354,7 @@
             ]
         },
         {
-            "name": "Land_Dead_MassGrave",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1275.7918701171876,
                 387.0799255371094,
@@ -381,7 +367,7 @@
             ]
         },
         {
-            "name": "Land_wreck_truck01_aban2_green",
+            "name": "PileOfWoodenPlanks",
             "pos": [
                 1264.8646240234376,
                 386.5595703125,
